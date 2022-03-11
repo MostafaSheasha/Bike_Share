@@ -3,12 +3,15 @@ This project part of Data Analysis Professional from Udacity powered by FWD
                                                                     (V 1.0)
                                                                     
 Description:
-           It discovers and analyzes the data of bike-sharing from 3 cities
+           
+       It discovers and analyzes the data of bike-sharing from 3 cities
       
 Input:
+      
       You choose the city, month and day.
       
 Output:
+
        The most common used start station
        
        The most common used end station
