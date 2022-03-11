@@ -9,10 +9,16 @@ Input:
       
 Output:
        The most common used start station
+       
        The most common used end station
+       
        The most common trip
+       
        The total travel time
+       
        The mean travel time
+       
        The counts of user types
+       
        The counts of gender
        
